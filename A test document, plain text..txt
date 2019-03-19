@@ -1,0 +1,3 @@
+A test document (plain text).
+Ends
+
